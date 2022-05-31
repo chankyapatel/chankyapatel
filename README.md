@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @chankyapatel
+- 👀 I’m interested in analyzing the data and  make useful decisions.
+- 🌱 I’m currently learning data analytics.
+- 📫 How to reach me - chanakyapatel619@gmail.com
+
+<!---
+chankyapatel/chankyapatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
