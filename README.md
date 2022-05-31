@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chankyapatel
 - 👀 I’m interested in analyzing the data and  make useful decisions.
-- 🌱 I’m currently learning data analytics.
+- 🌱 I’m currently taking data analytics.
 - 📫 How to reach me - chanakyapatel619@gmail.com
 
 <!---
